@@ -14,6 +14,15 @@ Option Explicit On
 Partial Public Class KoleksiPub
 
     '''<summary>
+    '''headerControl control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents headerControl As Global.polis.Header
+
+    '''<summary>
     '''form1 control.
     '''</summary>
     '''<remarks>

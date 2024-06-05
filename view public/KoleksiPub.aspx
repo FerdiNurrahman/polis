@@ -1,25 +1,27 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="KoleksiPub.aspx.vb" Inherits="polis.KoleksiPub" %>
+
 <%@ Register TagPrefix="uc" TagName="Header" Src="~/view public/Header.ascx" %>
 <%@ Register TagPrefix="uc" TagName="Footer" Src="~/view public/Footer.ascx" %>
 
 <!DOCTYPE html>
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>POLIS - Perpustakaan Politala</title>
 
-    <%-- Google Web Fonts --%>
+    <%--Google Web Fonts--%>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500;600&family=Roboto&display=swap" rel="stylesheet" />
 
-    <%-- Icon Font Stylesheet --%>
+    <%--Icon Font Stylesheet--%>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.5.2/css/all.css" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrapicons.css" rel="stylesheet" />
 
-    <%-- Customized Bootstrap Stylesheet --%>
+    <%--Customized Bootstrap Stylesheet--%>
     <link href="../css/BootstrapMin.css" rel="stylesheet" />
 
-    <%-- Template Stylesheet --%>
+    <%--Template Stylesheet--%>
     <link href="../css/Public.css" rel="stylesheet" />
 
     <style type="text/css">
@@ -28,9 +30,11 @@
             right: 46px;
         }
     </style>
+
 </head>
+
 <body>
-    <uc:Header runat="server" />
+    <uc:Header id="headerControl" runat="server" />
 
     <div class="container-fluid py-5">
         <div class="container py-5">
@@ -57,6 +61,7 @@
                             </div>
 
                             <br />
+
                             <asp:GridView ID="GV" runat="server"></asp:GridView>
                         </div>
                     </div>

@@ -14,6 +14,15 @@ Option Explicit On
 Partial Public Class BerandaPub
 
     '''<summary>
+    '''HeaderControl control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents HeaderControl As Global.polis.Header
+
+    '''<summary>
     '''form1 control.
     '''</summary>
     '''<remarks>

@@ -26,7 +26,7 @@ Inherits="polis.BerandaPub" %>
 </head>
 
 <body>
-    <uc:Header runat="server" />
+    <uc:Header id="HeaderControl" runat="server" />
 
     <div class="container-fluid py-5">
         <div class="container py-5">

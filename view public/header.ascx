@@ -12,17 +12,17 @@ Inherits="polis.Header" %>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="fa-solid fa-bars"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-            <div class="navbar-nav ms-auto py-0">
-                <a href="BerandaPub.aspx" class="nav-item nav-link active">Beranda</a>
-                <a href="KoleksiPub.aspx" class="nav-item nav-link">Koleksi</a>
-                <a href="" class="nav-item nav-link">Layanan</a>
-                <a href="" class="nav-item nav-link">Profil</a>
-                <a href="" class="nav-item nav-link">Kontak Kami</a>
-            </div>
+       <div class="collapse navbar-collapse" id="navbarCollapse">
+   <div class="navbar-nav ms-auto py-0">
+    <a href="BerandaPub.aspx" class="nav-item nav-link" id="navBeranda" runat="server">Beranda</a>
+    <a href="KoleksiPub.aspx" class="nav-item nav-link" id="navKoleksi" runat="server">Koleksi</a>
+    <a href="#" class="nav-item nav-link" id="navLayanan" runat="server">Layanan</a>
+    <a href="#" class="nav-item nav-link" id="navProfil" runat="server">Profil</a>
+    <a href="#" class="nav-item nav-link" id="navKontak" runat="server">Kontak Kami</a>
+</div>
 
-            <a href="" class="btn btn-primary rounded-pill py-2 px-4 ms-lg-4">Login</a>
-        </div>
+    <a href="#" class="btn btn-primary rounded-pill py-2 px-4 ms-lg-4">Login</a>
+</div>
     </nav>
 </div>
 <%--Navbar & Hero End--%>
