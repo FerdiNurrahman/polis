@@ -1,0 +1,136 @@
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\polis.dll.config
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\polis.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\polis.pdb
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\polis.xml
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\csc.exe
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\csc.exe.config
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\csc.rsp
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\csi.exe
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\csi.exe.config
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\csi.rsp
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.AppContext.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Collections.Immutable.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Console.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.IO.Compression.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.IO.FileSystem.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Net.Http.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Net.Sockets.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.ValueTuple.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Xml.XPath.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\vbc.exe
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\vbc.exe.config
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\vbc.rsp
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\VBCSCompiler.exe
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\roslyn\VBCSCompiler.exe.config
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\obj\Debug\polis.vbproj.AssemblyReference.cache
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\obj\Debug\polis.Resources.resources
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\obj\Debug\polis.vbproj.GenerateResource.cache
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\obj\Debug\polis.vbproj.CoreCompileInputs.cache
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\obj\Debug\polis.vbproj.CopyComplete
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\obj\Debug\polis.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\obj\Debug\polis.xml
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\obj\Debug\polis.pdb
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\MySql.Data.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\System.Memory.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\System.Threading.Tasks.Extensions.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\System.Numerics.Vectors.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\System.Buffers.dll
+D:\Tugas\Semester 3\PemVis\IkyPemVis1\polis\bin\MySql.Data.xml
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\polis.dll.config
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\polis.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\polis.pdb
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\polis.xml
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\csc.exe
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\csc.exe.config
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\csc.rsp
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\csi.exe
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\csi.exe.config
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\csi.rsp
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.AppContext.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Collections.Immutable.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Console.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Globalization.Calendars.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.IO.Compression.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.IO.FileSystem.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Net.Http.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Net.Sockets.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Reflection.Metadata.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.ValueTuple.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Xml.XPath.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\vbc.exe
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\vbc.exe.config
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\vbc.rsp
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\VBCSCompiler.exe
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\roslyn\VBCSCompiler.exe.config
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\System.Memory.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\System.Threading.Tasks.Extensions.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\System.Numerics.Vectors.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\System.Buffers.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\obj\Debug\polis.vbproj.AssemblyReference.cache
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\obj\Debug\polis.Resources.resources
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\obj\Debug\polis.vbproj.GenerateResource.cache
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\obj\Debug\polis.vbproj.CoreCompileInputs.cache
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\obj\Debug\polis.vbproj.Up2Date
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\obj\Debug\polis.dll
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\obj\Debug\polis.xml
+D:\DATA JR\TUGAS\Kuliah\Semester 4\Pemvis 2\habis uts project\polis\obj\Debug\polis.pdb
