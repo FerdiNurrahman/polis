@@ -37,9 +37,72 @@ polis
  Returns the Asp log object.
  </summary>
 </member>
+<member name="F:polis.BerandaPub._HeaderControl">
+<summary>
+HeaderControl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:polis.BerandaPub._form1">
 <summary>
 form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:polis.Header._navBeranda">
+<summary>
+navBeranda control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:polis.Header._navKoleksi">
+<summary>
+navKoleksi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:polis.Header._navLayanan">
+<summary>
+navLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:polis.Header._navProfil">
+<summary>
+navProfil control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:polis.Header._navKontak">
+<summary>
+navKontak control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:polis.KoleksiPub._headerControl">
+<summary>
+headerControl control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -76,6 +139,42 @@ To modify move field declaration from designer file to code-behind file.
 <member name="F:polis.KoleksiPub._GV">
 <summary>
 GV control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:polis.LayananPub._HeaderControl">
+<summary>
+HeaderControl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:polis.LayananPub._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:polis.LayananPub._LblLayanan">
+<summary>
+LblLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:polis.LayananPub._BtnDownload">
+<summary>
+BtnDownload control.
 </summary>
 <remarks>
 Auto-generated field.

@@ -61,8 +61,8 @@
                             </div>
 
                             <br />
-
-                            <asp:GridView ID="GV" runat="server"></asp:GridView>
+                            <asp:GridView ID="GV" runat="server" class="table table-bordered">
+                            </asp:GridView>
                         </div>
                     </div>
                 </form>

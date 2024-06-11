@@ -1,7 +1,9 @@
 ﻿Public Class KoleksiPub
     Inherits System.Web.UI.Page
+
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-        Dim header As Header = CType(Me.HeaderControl, Header)
+        ' Panggil method di user control untuk mengaktifkan menu Koleksi
+        Dim header As Header = CType(Me.headerControl, Header)
         header.SetActiveNav("Koleksi")
 
         'DROPDOWNLIST DDLKATEGORI
@@ -24,5 +26,17 @@
         'Menambahkan item kosong
         DdlKategori.Items.Insert(0, New ListItem("", ""))
 
+
+        'GRIDVIEW GV
+        'Tampilkan data koleksi di GV
+        Dim dtkol As New DataTable
+        Dim ko As New Koleksi_m()
+        dtkol = ko.Lihat()
+
+        'Hapus isi dari GV terlebih dahulu
+
+        'Atur Gridview
+        GV.DataSource = dtkol
+        GV.DataBind()
     End Sub
 End Class

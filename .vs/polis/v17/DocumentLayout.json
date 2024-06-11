@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|d:\\data jr\\tugas\\kuliah\\semester 4\\pemvis 2\\habis uts project\\polis\\view public\\koleksipub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|d:\\data jr\\tugas\\kuliah\\semester 4\\pemvis 2\\habis uts project\\polis\\model\\layanan_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:model\\layanan_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|d:\\data jr\\tugas\\kuliah\\semester 4\\pemvis 2\\habis uts project\\polis\\view public\\layananpub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:view public\\layananpub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|d:\\data jr\\tugas\\kuliah\\semester 4\\pemvis 2\\habis uts project\\polis\\view public\\layananpub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:view public\\layananpub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\header.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:view public\\header.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\koleksipub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:view public\\koleksipub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -11,32 +27,44 @@
       "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:view public\\BerandaPub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|d:\\data jr\\tugas\\kuliah\\semester 4\\pemvis 2\\habis uts project\\polis\\model\\koleksi_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\koleksi_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:model\\koleksi_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|d:\\data jr\\tugas\\kuliah\\semester 4\\pemvis 2\\habis uts project\\polis\\model\\kategori_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:model\\kategori_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\koleksipub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:view public\\koleksipub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\KoneksiDB.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:KoneksiDB.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|d:\\data jr\\tugas\\kuliah\\semester 4\\pemvis 2\\habis uts project\\polis\\model\\detailpengarang_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:model\\detailpengarang_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|d:\\data jr\\tugas\\kuliah\\semester 4\\pemvis 2\\habis uts project\\polis\\view public\\header.ascx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:view public\\header.ascx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\header.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
-      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:view public\\header.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\css\\Public.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:css\\Public.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\css\\BootstrapMin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:css\\BootstrapMin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\css\\Public.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:css\\Public.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\BerandaPub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:view public\\BerandaPub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:view public\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\detailpengarang_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:model\\detailpengarang_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\kategori_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:model\\kategori_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\js\\easingmin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -45,14 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\js\\Main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:js\\Main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
-      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:view public\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\BerandaPub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{963BB096-B41E-4721-BD97-E748D7B0F463}|polis.vbproj|solutionrelative:view public\\BerandaPub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,72 +98,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DetailPengarang_m.vb",
-              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\DetailPengarang_m.vb",
-              "RelativeDocumentMoniker": "model\\DetailPengarang_m.vb",
-              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\DetailPengarang_m.vb",
-              "RelativeToolTip": "model\\DetailPengarang_m.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T03:07:44.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Koleksi_m.vb",
-              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\Koleksi_m.vb",
-              "RelativeDocumentMoniker": "model\\Koleksi_m.vb",
-              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\Koleksi_m.vb",
-              "RelativeToolTip": "model\\Koleksi_m.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T03:07:29.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Kategori_m.vb",
-              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\Kategori_m.vb",
-              "RelativeDocumentMoniker": "model\\Kategori_m.vb",
-              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\Kategori_m.vb",
-              "RelativeToolTip": "model\\Kategori_m.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T03:07:01.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KoleksiPub.aspx",
-              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\KoleksiPub.aspx",
-              "RelativeDocumentMoniker": "view public\\KoleksiPub.aspx",
-              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\KoleksiPub.aspx",
-              "RelativeToolTip": "view public\\KoleksiPub.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-29T07:25:04.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "KoneksiDB.vb",
-              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\KoneksiDB.vb",
-              "RelativeDocumentMoniker": "KoneksiDB.vb",
-              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\KoneksiDB.vb",
-              "RelativeToolTip": "KoneksiDB.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Title": "Layanan_m.vb",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\Layanan_m.vb",
+              "RelativeDocumentMoniker": "model\\Layanan_m.vb",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\Layanan_m.vb",
+              "RelativeToolTip": "model\\Layanan_m.vb",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-05-29T07:19:50.831Z",
+              "WhenOpened": "2024-06-11T15:00:29.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LayananPub.aspx.vb",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\LayananPub.aspx.vb",
+              "RelativeDocumentMoniker": "view public\\LayananPub.aspx.vb",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\LayananPub.aspx.vb",
+              "RelativeToolTip": "view public\\LayananPub.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-11T14:57:46.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LayananPub.aspx",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\LayananPub.aspx",
+              "RelativeDocumentMoniker": "view public\\LayananPub.aspx",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\LayananPub.aspx",
+              "RelativeToolTip": "view public\\LayananPub.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-11T14:47:33.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BerandaPub.aspx",
               "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\BerandaPub.aspx",
               "RelativeDocumentMoniker": "view public\\BerandaPub.aspx",
@@ -156,44 +150,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Public.css",
-              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\css\\Public.css",
-              "RelativeDocumentMoniker": "css\\Public.css",
-              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\css\\Public.css",
-              "RelativeToolTip": "css\\Public.css",
-              "ViewState": "AQIAAJ0AAAAAAAAAAAAcwLEAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-29T07:19:50.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EasingMin.js",
-              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\js\\EasingMin.js",
-              "RelativeDocumentMoniker": "js\\EasingMin.js",
-              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\js\\EasingMin.js",
-              "RelativeToolTip": "js\\EasingMin.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-29T07:19:50.824Z",
+              "DocumentIndex": 7,
+              "Title": "KoleksiPub.aspx.vb",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\KoleksiPub.aspx.vb",
+              "RelativeDocumentMoniker": "view public\\KoleksiPub.aspx.vb",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\KoleksiPub.aspx.vb",
+              "RelativeToolTip": "view public\\KoleksiPub.aspx.vb",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-05T03:27:11.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BootstrapMin.css",
-              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\css\\BootstrapMin.css",
-              "RelativeDocumentMoniker": "css\\BootstrapMin.css",
-              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\css\\BootstrapMin.css",
-              "RelativeToolTip": "css\\BootstrapMin.css",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-29T07:19:50.827Z"
+              "DocumentIndex": 6,
+              "Title": "Koleksi_m.vb",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\Koleksi_m.vb",
+              "RelativeDocumentMoniker": "model\\Koleksi_m.vb",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\Koleksi_m.vb",
+              "RelativeToolTip": "model\\Koleksi_m.vb",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAIwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-05T03:07:29.272Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "KoleksiPub.aspx",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\KoleksiPub.aspx",
+              "RelativeDocumentMoniker": "view public\\KoleksiPub.aspx",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\KoleksiPub.aspx",
+              "RelativeToolTip": "view public\\KoleksiPub.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T03:28:27.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "header.ascx",
               "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\header.ascx",
               "RelativeDocumentMoniker": "view public\\header.ascx",
@@ -206,29 +202,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "footer.ascx",
-              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\footer.ascx",
-              "RelativeDocumentMoniker": "view public\\footer.ascx",
-              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\footer.ascx",
-              "RelativeToolTip": "view public\\footer.ascx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2024-05-29T07:19:50.83Z",
+              "DocumentIndex": 8,
+              "Title": "KoneksiDB.vb",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\KoneksiDB.vb",
+              "RelativeDocumentMoniker": "KoneksiDB.vb",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\KoneksiDB.vb",
+              "RelativeToolTip": "KoneksiDB.vb",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T07:19:50.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Main.js",
-              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\js\\Main.js",
-              "RelativeDocumentMoniker": "js\\Main.js",
-              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\js\\Main.js",
-              "RelativeToolTip": "js\\Main.js",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAAAIQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-29T07:19:50.807Z",
+              "DocumentIndex": 9,
+              "Title": "header.ascx.vb",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\header.ascx.vb",
+              "RelativeDocumentMoniker": "view public\\header.ascx.vb",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\header.ascx.vb",
+              "RelativeToolTip": "view public\\header.ascx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-05T03:57:20.361Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BootstrapMin.css",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\css\\BootstrapMin.css",
+              "RelativeDocumentMoniker": "css\\BootstrapMin.css",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\css\\BootstrapMin.css",
+              "RelativeToolTip": "css\\BootstrapMin.css",
+              "ViewState": "AQIAANkMAAAAAAAAAAAEwOsMAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-29T07:19:50.827Z"
             },
             {
               "$type": "Document",
@@ -241,6 +249,83 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-05-29T07:19:50.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Public.css",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\css\\Public.css",
+              "RelativeDocumentMoniker": "css\\Public.css",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\css\\Public.css",
+              "RelativeToolTip": "css\\Public.css",
+              "ViewState": "AQIAAKwCAAAAAAAAAAAEwGMDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-29T07:19:50.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "footer.ascx",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\footer.ascx",
+              "RelativeDocumentMoniker": "view public\\footer.ascx",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\view public\\footer.ascx",
+              "RelativeToolTip": "view public\\footer.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-05-29T07:19:50.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Kategori_m.vb",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\Kategori_m.vb",
+              "RelativeDocumentMoniker": "model\\Kategori_m.vb",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\Kategori_m.vb",
+              "RelativeToolTip": "model\\Kategori_m.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-05T03:07:01.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetailPengarang_m.vb",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\DetailPengarang_m.vb",
+              "RelativeDocumentMoniker": "model\\DetailPengarang_m.vb",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\model\\DetailPengarang_m.vb",
+              "RelativeToolTip": "model\\DetailPengarang_m.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-05T03:07:44.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EasingMin.js",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\js\\EasingMin.js",
+              "RelativeDocumentMoniker": "js\\EasingMin.js",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\js\\EasingMin.js",
+              "RelativeToolTip": "js\\EasingMin.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-29T07:19:50.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Main.js",
+              "DocumentMoniker": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\js\\Main.js",
+              "RelativeDocumentMoniker": "js\\Main.js",
+              "ToolTip": "D:\\DATA JR\\TUGAS\\Kuliah\\Semester 4\\Pemvis 2\\habis uts project\\polis\\js\\Main.js",
+              "RelativeToolTip": "js\\Main.js",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-29T07:19:50.807Z",
               "EditorCaption": ""
             }
           ]

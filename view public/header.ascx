@@ -16,7 +16,7 @@ Inherits="polis.Header" %>
    <div class="navbar-nav ms-auto py-0">
     <a href="BerandaPub.aspx" class="nav-item nav-link" id="navBeranda" runat="server">Beranda</a>
     <a href="KoleksiPub.aspx" class="nav-item nav-link" id="navKoleksi" runat="server">Koleksi</a>
-    <a href="#" class="nav-item nav-link" id="navLayanan" runat="server">Layanan</a>
+    <a href="LayananPub.aspx" class="nav-item nav-link" id="navLayanan" runat="server">Layanan</a>
     <a href="#" class="nav-item nav-link" id="navProfil" runat="server">Profil</a>
     <a href="#" class="nav-item nav-link" id="navKontak" runat="server">Kontak Kami</a>
 </div>

@@ -1,4 +1,5 @@
 ﻿Imports MySql.Data.MySqlClient
+
 Public Class KoneksiDB
     Dim username, password, server, database As String
     Dim mycn As MySqlConnection
@@ -18,16 +19,18 @@ Public Class KoneksiDB
 
         mycn = New MySqlConnection(con_str)
     End Sub
+
     Public Sub CekKoneksi()
         Try
             mycn.Open()
-            mycn.Close()
             MsgBox("Koneksi Berhasil")
         Catch ex As Exception
+            MsgBox("Koneksi Gagal: " & ex.Message)
+        Finally
+            ' Pastikan koneksi ditutup jika terbuka
             If mycn.State = ConnectionState.Open Then
-                mycn.Open()
+                mycn.Close()
             End If
-            MsgBox("Koneksi Gagal")
         End Try
     End Sub
 
@@ -35,18 +38,27 @@ Public Class KoneksiDB
         Dim dt As New DataTable
 
         Try
+            ' Periksa dan tutup koneksi jika terbuka
+            If mycn.State = ConnectionState.Open Then
+                mycn.Close()
+            End If
+
+            ' Buka koneksi
             mycn.Open()
+
+            ' Eksekusi query
             mydata = New MySqlDataAdapter(query, mycn)
             mydata.Fill(dt)
-            mycn.Close()
+
         Catch ex As Exception
+            MsgBox("Data tidak dapat ditampilkan, kemungkinan ada permasalahan terkait koneksi database. Hubungi admin! Error: " & ex.Message, MsgBoxStyle.Information, "Informasi")
+        Finally
+            ' Tutup koneksi
             If mycn.State = ConnectionState.Open Then
-                mycn.Open()
+                mycn.Close()
             End If
-            MsgBox("Data tidak dapat ditampilkan, kemungkinan ada permasalahan terkait koneksi database. Hubungi admin!", MsgBoxStyle.Information, "Informasi")
         End Try
 
         Return dt
     End Function
-
 End Class

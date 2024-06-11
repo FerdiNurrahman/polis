@@ -104,6 +104,7 @@
     <Content Include="view public\footer.ascx" />
     <Content Include="view public\header.ascx" />
     <Content Include="view public\KoleksiPub.aspx" />
+    <Content Include="view public\LayananPub.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -111,6 +112,7 @@
     <Compile Include="model\DetailPengarang_m.vb" />
     <Compile Include="model\Kategori_m.vb" />
     <Compile Include="model\Koleksi_m.vb" />
+    <Compile Include="model\Layanan_m.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -156,6 +158,13 @@
     </Compile>
     <Compile Include="view public\KoleksiPub.aspx.vb">
       <DependentUpon>KoleksiPub.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="view public\LayananPub.aspx.designer.vb">
+      <DependentUpon>LayananPub.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="view public\LayananPub.aspx.vb">
+      <DependentUpon>LayananPub.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
   </ItemGroup>
